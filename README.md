@@ -10,9 +10,9 @@ A nice list of React Native learning resources
 * [ ] [EggHead.io - Animate React Native UI Elements](https://egghead.io/courses/animate-react-native-ui-elements)
 
 ## Others
-[React Native Links](http://www.reactnative.com/)
-[Callstack Blog](https://blog.callstack.io/tagged/react-native)
-[React Native Academy](https://medium.com/reactnativeacademy)
+* [React Native Links](http://www.reactnative.com/)
+* [Callstack Blog](https://blog.callstack.io/tagged/react-native)
+* [React Native Academy](https://medium.com/reactnativeacademy)
 
 
 
