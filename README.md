@@ -10,6 +10,8 @@ A nice list of React Native learning resources
 * [ ] [EggHead.io - Animate React Native UI Elements](https://egghead.io/courses/animate-react-native-ui-elements)
 * [ ] [Kuiper Collective - React Native Beginner](https://www.youtube.com/playlist?list=PL7D-0n1z1EbgAoLu1n5wjcMLDDAQqXOMw)
 * [ ] [Kuiper Collective - React Native Design](https://www.youtube.com/playlist?list=PL7D-0n1z1EbhkundIsOBaN_mlLvV4_hyO)
+* [ ] [Make it Open - Building the F8 2016 App](http://makeitopen.com/)
+
 
 ## Others
 * [React Native Links](http://www.reactnative.com/)
