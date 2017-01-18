@@ -13,7 +13,10 @@ A nice list of React Native learning resources
 * [ ] [Make it Open - Building the F8 2016 App](http://makeitopen.com/)
 
 
+
+
 ## Others
+* [React Native Tutorials](https://github.com/markerikson/react-redux-links/blob/master/react-native.md)
 * [React Native Links](http://www.reactnative.com/)
 * [Callstack Blog](https://blog.callstack.io/tagged/react-native)
 * [React Native Academy](https://medium.com/reactnativeacademy)
