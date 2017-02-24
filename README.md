@@ -19,7 +19,6 @@ A nice list of React Native learning resources
 ## Others
 * [React Native Tutorials](https://github.com/markerikson/react-redux-links/blob/master/react-native.md)
 * [Medium - 5 Open Source React Native Projects To Learn From](https://medium.com/the-react-native-log/5-open-source-react-native-projects-to-learn-from-fb7e5cfe29f2#.m58cj9o03)
-
 * [React Native Links](http://www.reactnative.com/)
 * [Callstack Blog](https://blog.callstack.io/tagged/react-native)
 * [React Native Academy](https://medium.com/reactnativeacademy)
