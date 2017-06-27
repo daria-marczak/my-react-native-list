@@ -21,6 +21,8 @@ A nice list of React Native learning resources
 ## Blog posts
 * [Medium - 5 Open Source React Native Projects To Learn From](https://medium.com/the-react-native-log/5-open-source-react-native-projects-to-learn-from-fb7e5cfe29f2#.m58cj9o03)
 * [Linton Ye -  What is React Native?](http://www.learnreact.design/2017/06/20/what-is-react-native)
+* [Medium -  What are the main differences between ReactJS and React-Native?](https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24)
+
 
 ## Others
 * [Awesome React Native](https://github.com/jondot/awesome-react-native)
