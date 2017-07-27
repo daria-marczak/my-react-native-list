@@ -29,6 +29,6 @@ A nice list of React Native learning resources
 * [React Native Links](http://www.reactnative.com/)
 * [Callstack Blog](https://blog.callstack.io/tagged/react-native)
 * [React Native Academy](https://medium.com/reactnativeacademy)
-
+* [10 React Native Open-Source Projects You Must Know](https://jssolutionsdev.com/blog/10-react-native-open-source-projects-you-must-know/)
 
 
