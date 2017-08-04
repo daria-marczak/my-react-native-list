@@ -23,6 +23,9 @@ A nice list of React Native learning resources
 * [Medium -  What are the main differences between ReactJS and React-Native?](https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24)
 * [LogicRoom -  React Native Architecture Explained](https://www.logicroom.co/react-native-architecture-explained/)
 
+## Conferences
+* [Leland Richardson - How Airbnb Is Using React Native](https://www.youtube.com/watch?v=8qCociUB6aQ)
+
 ## Others
 * [Awesome React Native](https://github.com/jondot/awesome-react-native)
 * [React Native Tutorials](https://github.com/markerikson/react-redux-links/blob/master/react-native.md)
