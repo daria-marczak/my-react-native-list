@@ -16,6 +16,8 @@ A nice list of React Native learning resources
 * [ ] [SendBird - Build a Messaging App Using React Native](https://blog.sendbird.com/tutorial-build-a-messaging-app-using-react-native/)
 * [ ] [CodeMentor - Building an iOS Geolocation Travel App with React Native](https://www.codementor.io/vijayst/build-ios-geolocation-app-react-native-du1087rsy)
 * [ ] [Unbug - React Native Training](https://unbug.gitbooks.io/react-native-training/content/)
+* [ ] [Udemy - Automate Your React Native Releases with Fastlane & Bitrise](https://www.udemy.com/automate-your-react-native-releases-with-fastlane-and-bitrise/)
+
 
 ## Blog posts
 * [Medium - 5 Open Source React Native Projects To Learn From](https://medium.com/the-react-native-log/5-open-source-react-native-projects-to-learn-from-fb7e5cfe29f2#.m58cj9o03)
